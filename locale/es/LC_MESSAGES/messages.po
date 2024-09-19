@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Game No"
+msgstr "Juego No"
+
+msgid "Current Round"
+msgstr "Ronda Actual"
+
+msgid "Round"
+msgstr "Ronda"
+
+msgid "Correct"
+msgstr "Correcto"
+
+msgid "Correct Color"
+msgstr "Color Correcto"
+
+msgid "Current Guess"
+msgstr "Adivinanza Actual"
+
+msgid "Last Guess"
+msgstr "Última Adivinanza"
+
+msgid "New Round"
+msgstr "Nueva Ronda"
+
+msgid "Guess"
+msgstr "Adivinar"
+
+msgid "Won"
+msgstr "Ganado"
+
+msgid "Won2"
+msgstr "ha ganado"
+
+msgid "Winner"
+msgstr "Ganador"
+
+msgid "Dissolve"
+msgstr "Disolver"
+
+msgid "Dissolve Text"
+msgstr "El código de color era"
+
+msgid "Nobody"
+msgstr "Nadie"
+
+msgid "Code"
+msgstr "Código de color"
+
+msgid "GuessTV"
+msgstr "Adivinanza"
+
+msgid "Player"
+msgstr "Jugador"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Light"
+msgstr "Claro"
+
+msgid "Dark"
+msgstr "Oscuro"
+
+msgid "Moves"
+msgstr "Movimientos"
+
+msgid "Gamehistory"
+msgstr "Historial de Juego"
+
+msgid "Red"
+msgstr "Rojo"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "White"
+msgstr "Blanco"
+
+msgid "Orange"
+msgstr "Naranja"
+
+msgid "Grey"
+msgstr "Gris"
+
+msgid "German"
+msgstr "Alemán"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "French"
+msgstr "Francés"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Chinese"
+msgstr "Chino"

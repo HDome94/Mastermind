@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Game No"
+msgstr "Game No"
+
+msgid "Current Round"
+msgstr "Current Round"
+
+msgid "Round"
+msgstr "Round"
+
+msgid "Correct"
+msgstr "Correct"
+
+msgid "Correct Color"
+msgstr "Correct Color"
+
+msgid "Current Guess"
+msgstr "Current Guess"
+
+msgid "Last Guess"
+msgstr "Last Guess"
+
+msgid "New Round"
+msgstr "New Round"
+
+msgid "Guess"
+msgstr "Guess"
+
+msgid "Won"
+msgstr "Won"
+
+msgid "Won2"
+msgstr "has won"
+
+msgid "Winner"
+msgstr "Winner"
+
+msgid "Dissolve"
+msgstr "Dissolve"
+
+msgid "Dissolve Text"
+msgstr "The color code was"
+
+msgid "Nobody"
+msgstr "Nobody"
+
+msgid "Code"
+msgstr "Color code"
+
+msgid "GuessTV"
+msgstr "Guess"
+
+msgid "Player"
+msgstr "Player"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Moves"
+msgstr "Moves"
+
+msgid "Gamehistory"
+msgstr "Game History"
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "White"
+msgstr "White"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Grey"
+msgstr "Grey"
+
+msgid "German"
+msgstr "German"
+
+msgid "English"
+msgstr "English"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "French"
+msgstr "French"
+
+msgid "Italian"
+msgstr "Italian"
+
+msgid "Chinese"
+msgstr "Chinese"

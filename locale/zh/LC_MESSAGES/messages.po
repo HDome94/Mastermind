@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Game No"
+msgstr "游戏号"
+
+msgid "Current Round"
+msgstr "当前回合"
+
+msgid "Round"
+msgstr "回合"
+
+msgid "Correct"
+msgstr "正确"
+
+msgid "Correct Color"
+msgstr "正确颜色"
+
+msgid "Current Guess"
+msgstr "当前猜测"
+
+msgid "Last Guess"
+msgstr "最后猜测"
+
+msgid "New Round"
+msgstr "新回合"
+
+msgid "Guess"
+msgstr "猜测"
+
+msgid "Won"
+msgstr "赢了"
+
+msgid "Won2"
+msgstr "赢了"
+
+msgid "Winner"
+msgstr "赢家"
+
+msgid "Dissolve"
+msgstr "溶解"
+
+msgid "Dissolve Text"
+msgstr "颜色代码是"
+
+msgid "Nobody"
+msgstr "没人"
+
+msgid "Code"
+msgstr "颜色代码"
+
+msgid "GuessTV"
+msgstr "猜测"
+
+msgid "Player"
+msgstr "玩家"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Light"
+msgstr "浅色"
+
+msgid "Dark"
+msgstr "深色"
+
+msgid "Moves"
+msgstr "移动"
+
+msgid "Gamehistory"
+msgstr "游戏历史"
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Orange"
+msgstr "橙色"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "German"
+msgstr "德语"
+
+msgid "English"
+msgstr "英语"
+
+msgid "Spanish"
+msgstr "西班牙语"
+
+msgid "French"
+msgstr "法语"
+
+msgid "Italian"
+msgstr "意大利语"
+
+msgid "Chinese"
+msgstr "中文"

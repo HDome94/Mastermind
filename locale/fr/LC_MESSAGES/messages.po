@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Game No"
+msgstr "Jeu No"
+
+msgid "Current Round"
+msgstr "Tour Actuelle"
+
+msgid "Round"
+msgstr "Tour"
+
+msgid "Correct"
+msgstr "Correct"
+
+msgid "Correct Color"
+msgstr "Couleur Correcte"
+
+msgid "Current Guess"
+msgstr "Devine Actuelle"
+
+msgid "Last Guess"
+msgstr "Dernière Devine"
+
+msgid "New Round"
+msgstr "Nouvelle Manche"
+
+msgid "Guess"
+msgstr "Deviner"
+
+msgid "Won"
+msgstr "Gagné"
+
+msgid "Won2"
+msgstr "a gagné"
+
+msgid "Winner"
+msgstr "Gagnant"
+
+msgid "Dissolve"
+msgstr "Dissoudre"
+
+msgid "Dissolve Text"
+msgstr "Le code couleur était"
+
+msgid "Nobody"
+msgstr "Personne"
+
+msgid "Code"
+msgstr "Code couleur"
+
+msgid "GuessTV"
+msgstr "Devine"
+
+msgid "Player"
+msgstr "Joueur"
+
+msgid "Theme"
+msgstr "Thème"
+
+msgid "Light"
+msgstr "Clair"
+
+msgid "Dark"
+msgstr "Sombre"
+
+msgid "Moves"
+msgstr "Mouvements"
+
+msgid "Gamehistory"
+msgstr "Historique de Jeu"
+
+msgid "Red"
+msgstr "Rouge"
+
+msgid "Green"
+msgstr "Vert"
+
+msgid "Blue"
+msgstr "Bleu"
+
+msgid "White"
+msgstr "Blanc"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Grey"
+msgstr "Gris"
+
+msgid "German"
+msgstr "Allemand"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "Spanish"
+msgstr "Espagnol"
+
+msgid "French"
+msgstr "Français"
+
+msgid "Italian"
+msgstr "Italien"
+
+msgid "Chinese"
+msgstr "Chinois"
